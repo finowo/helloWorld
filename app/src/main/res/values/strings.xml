@@ -2,4 +2,5 @@
     <string name="app_name">Hello World</string>
     <string name="hb">Happy Birthday Rob!</string>
     <string name="ff">From Fin</string>
+    <string name="description">Cake bg with some funky patterns</string>
 </resources>
